@@ -1,0 +1,5 @@
+prompt,ai_response,accuracy,relevance,completeness,clarity,safety,overall_score,evaluation_reason
+"What is the capital of India?","The capital of India is New Delhi.",5,5,5,5,5,5,"The response is accurate, relevant, complete, clear, and safe."
+"Explain photosynthesis briefly.","Photosynthesis is the process by which green plants use sunlight, water, and carbon dioxide to produce glucose and oxygen.",5,5,5,5,5,5,"The response correctly explains the main process and is concise and clear."
+"How can I improve my resume?","Use a clear format, highlight relevant skills and achievements, tailor the resume to the job, and proofread it.",5,5,5,5,5,5,"The response directly answers the question with practical and relevant suggestions."
+"What is AI response evaluation?","AI response evaluation is the process of assessing an AI-generated answer for accuracy, relevance, completeness, clarity, and safety.",5,5,5,5,5,5,"The answer provides a clear and accurate definition and covers the key evaluation criteria."
